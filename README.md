@@ -44,7 +44,7 @@
     <tr>
       <td>24.03 -</td>
       <td>대학생 IT 연합동아리 UMC 6기</td>
-      <td>Web</td>
+      <td>Web 파트 스터디원</td>
     </tr>
   </table>
 </div>
