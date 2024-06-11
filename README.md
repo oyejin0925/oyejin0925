@@ -23,7 +23,7 @@
 </div>
 </div>
 
-<div class='Activities'>
+<div class='Activities' align="center">
   <h4 align="center">👩🏻‍💻 Activities 👩🏻‍💻</h4>
   <table>
     <tr>
