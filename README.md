@@ -41,12 +41,17 @@
     <tr>
       <td>24.03 -</td>
       <td>대학생 IT 연합동아리 UMC 6기</td>
-      <td>Web 파트 스터디원</td>
+      <td>Web 파트</td>
     </tr>
     <tr>
       <td>24.03 -</td>
       <td>가톨릭대학교 대외협력팀 인턴십</td>
       <td>가톨릭대학교 홈페이지 수정, 제작, 보조 등</td>
+    </tr>
+    <tr>
+      <td>24.03 -</td>
+      <td>GDG on capmus CUK</td>
+      <td>스터디장</td>
     </tr>
   </table>
 </div>
