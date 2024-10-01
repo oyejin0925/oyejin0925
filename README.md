@@ -39,7 +39,7 @@
       <td>동아리 활동</td>
     </tr>
     <tr>
-      <td>24.03 -</td>
+      <td>24.03 - 24.08</td>
       <td>대학생 IT 연합동아리 UMC 6기</td>
       <td>Web 파트</td>
     </tr>
@@ -49,7 +49,7 @@
       <td>가톨릭대학교 홈페이지 수정, 제작, 보조 등</td>
     </tr>
     <tr>
-      <td>24.03 -</td>
+      <td>24.09 -</td>
       <td>GDG on capmus CUK</td>
       <td>스터디장</td>
     </tr>
