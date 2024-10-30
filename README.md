@@ -25,7 +25,7 @@
 </div>
 </div>
 
-<div class='Activities' align="center">
+<!--<div class='Activities' align="center">
   <h4 align="center">👩🏻‍💻 Activities 👩🏻‍💻</h4>
   <table>
     <tr>
@@ -54,4 +54,4 @@
       <td>스터디장</td>
     </tr>
   </table>
-</div>
+</div>-->
